@@ -62,8 +62,3 @@ The EDA reveals that price, location, and room type are key factors shaping Airb
 
 
 
-#DataAnalysis #DataAnalytics #DataInsights #DataDriven #AnalyticsProject
-
- #ExploratoryDataAnalysis #InsightDiscovery #LinkedInProjects
-
- #TechForGood #Innovation #DigitalTransformation
